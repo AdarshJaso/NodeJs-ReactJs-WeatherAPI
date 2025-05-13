@@ -5,6 +5,8 @@ Fetching weather data using OpenWeatherAPI using NodeJS and using it in ReactJS.
 
 This project is built using TypeScript, Vite for the frontend, and `tsx` for running TypeScript in Node.js without compilation. Linting is set up for code quality.
 
+<img src="https://github.com/user-attachments/assets/0603e9aa-fc94-471b-9007-3d5aba86f112" width="300"/>
+
 ---
 
 ## 📦 Installation
