@@ -1,5 +1,5 @@
-# Boilerplate-code-for-ReactJs-TypeScript-NodeJs-Vite-TailwindCss-ESLint
-A boilerplate code for ReactJs, TypeScript, NodeJs, Vite and TailwindCss with ESLint
+# NODEJS/REACTJS weather app
+Fetching weather data using OpenWeatherAPI using NodeJS and using it in ReactJS. (NodeJS + Vite + React + Typescript + TailwindCss)
 
 # TypeScript + NodeJs + ReactJs Project
 
@@ -11,7 +11,7 @@ This project is built using TypeScript, Vite for the frontend, and `tsx` for run
 
 ```bash
 # Install dependencies
-yarn install
+yarn install (root and server)
 
 # Install tsx globally to run TypeScript files in Node.js
 yarn global add tsx
@@ -20,8 +20,5 @@ yarn global add tsx
 yarn global add nodemon
 
 #run
-yarn dev
-
-#run specific file in nodejs
-tsx server/src/server.ts
+yarn dev (root and server folder)
 
